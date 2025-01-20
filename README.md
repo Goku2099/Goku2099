@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Goku2099
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm Sameer Yadav!
+💻 I'm a Computer Science & Engineering student with a specialization in AI/ML.
+🔍 Passionate about machine learning, Web Development and building intelligent systems.
+🚀 Currently exploring deep learning, neural networks, and natural language processing.
+🌱 I'm constantly learning and contributing to open-source projects.
 
-<!---
-Goku2099/Goku2099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to connect!
+
