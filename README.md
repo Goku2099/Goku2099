@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Goku2099/Goku2099/main/banner.png" width="100%" />
+    <img src="[https://raw.githubusercontent.com/Goku2099/Goku2099/main/banner.png](https://raw.githubusercontent.com/Goku2099/Goku2099/main/dragon-ball-z-goku-5k-3840x2160-19865.jpg)" width="100%" />
 </p>
 
 ---
